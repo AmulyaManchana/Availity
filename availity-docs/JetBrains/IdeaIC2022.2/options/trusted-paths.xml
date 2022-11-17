@@ -1,0 +1,17 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\User\IdeaProjects\DaggerSample" value="true" />
+        <entry key="E:\avility_automation\avility-project" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="E:\avility_automation" />
+      </list>
+    </option>
+  </component>
+</application>

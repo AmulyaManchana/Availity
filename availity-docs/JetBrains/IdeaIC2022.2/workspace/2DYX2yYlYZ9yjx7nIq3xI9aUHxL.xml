@@ -1,0 +1,451 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="DaggerSample" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/serenity-cucumber4-sample-project-master/src/test/java/com/avility/bdd/CucumberRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://E:/serenity-cucumber4-sample-project-master/src/test/resources/features/member_search/SearchKeyword.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Cucumber">
+      <summary usageCount="3" lastUsed="1668670105341" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="70" lastUsed="1668670105178" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="10" lastUsed="1668670118782" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="1" lastUsed="1668668983313" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/User.java" />
+      <option value="$PROJECT_DIR$/src/main/java/BEServiceModule.java" />
+      <option value="$PROJECT_DIR$/src/main/java/UserModule.java" />
+      <option value="$PROJECT_DIR$/src/main/java/MyComponent.java" />
+      <option value="$PROJECT_DIR$/src/main/java/MainUser.java" />
+      <option value="$PROJECT_DIR$/src/main/java/BEServices.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/example/Kitchen.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/example/House.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/example/HouseComponent.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/exampleone/Car.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/exampleone/TestCar.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/example/Test.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/exampleone/Rims.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/exampleone/Tyres.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/exampleone/Wheel.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/exampleone/Cylender.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/exampleone/EngineType.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/exampleone/Engine.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/exampleone/WheelModule.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/exampleone/CarComponents.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/dagger/exampleone/EngineModule.java" />
+      <option value="$PROJECT_DIR$/../../../../UI_Framework/new-avility/pom.xml" />
+      <option value="$PROJECT_DIR$/../../../../UI_Framework/new-avility/src/test/java/com/avility/bdd/page/GooglePage.java" />
+      <option value="E:/serenity-cucumber4-sample-project-master/src/test/java/com/ivanwidyan/CucumberRunner.java" />
+      <option value="E:/serenity-cucumber4-sample-project-master/src/test/java/com/avility/bdd/steps/ui/GooglePageSteps.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Gherkin">
+      <summary usageCount="3" lastUsage="1668670105341" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="70" lastUsage="1668670105178" />
+    </language>
+    <language id="XML">
+      <summary usageCount="10" lastUsage="1668670118782" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1668668983313" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DaggerSample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serenity-cucumber4-sample-project-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="JUnit.CucumberRunner (1)" executorId="Run" />
+      <element setting="JUnit.CucumberRunner" executorId="Run" />
+      <element setting="Application.TestCar" executorId="Run" />
+      <element setting="Application.Test" executorId="Run" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CucumberRunner - 2022.11.17 at 12h 39m 03s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CucumberRunner_(1) - 2022.11.17 at 12h 51m 45s.xml">
+      <configuration name="CucumberRunner (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.4280754" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.23402777" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.10208333" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" visible="true" weight="0.33541667" />
+      <window_info anchor="bottom" id="Dependencies" order="10" weight="0.3298611" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.3298611" />
+      <window_info anchor="right" id="Notifications" order="1" weight="0.25049603" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Dependencies</value>
+      <value>Run</value>
+      <value>Maven</value>
+      <value>Notifications</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Project_Structure" timestamp="1668665864719">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1024.728@0.0.1024.728" timestamp="1668665864719" />
+    <state x="302" y="143" key="FileChooserDialogImpl" timestamp="1668668027814">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="302" y="143" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1668668027814" />
+    <state width="964" height="140" key="GridCell.Tab.0.bottom" timestamp="1668670076725">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="964" height="140" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1668670076725" />
+    <state width="1202" height="180" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1660923925867" />
+    <state width="964" height="140" key="GridCell.Tab.0.center" timestamp="1668670076725">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="964" height="140" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1668670076725" />
+    <state width="1202" height="180" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1660923925867" />
+    <state width="964" height="140" key="GridCell.Tab.0.left" timestamp="1668670076725">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="964" height="140" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1668670076725" />
+    <state width="1202" height="180" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1660923925867" />
+    <state width="964" height="140" key="GridCell.Tab.0.right" timestamp="1668670076725">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="964" height="140" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1668670076725" />
+    <state width="1202" height="180" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1660923925867" />
+    <state x="187" y="94" key="NewModule_or_Project.wizard" timestamp="1668668040666">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="187" y="94" key="NewModule_or_Project.wizard/0.0.1024.728@0.0.1024.728" timestamp="1668668040666" />
+    <state x="26" y="0" key="SettingsEditor" timestamp="1668668278955">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="26" y="0" key="SettingsEditor/0.0.1024.728@0.0.1024.728" timestamp="1668668278955" />
+    <state x="147" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1660918020848" />
+    <state x="110" y="125" width="824" height="528" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1668667713084">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="110" y="125" width="824" height="528" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1024.728@0.0.1024.728" timestamp="1668667713084" />
+    <state x="411" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1660904108464">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="411" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1660904108464" />
+    <state x="122" y="81" width="800" height="615" key="new project wizard" timestamp="1668665657296">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="122" y="81" width="800" height="615" key="new project wizard/0.0.1024.728@0.0.1024.728" timestamp="1668665657296" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/BEServiceModule.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/UserModule.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/MainUser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyComponent.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/BEServices.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/example/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/example/Kitchen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/example/HouseComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/exampleone/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/exampleone/Rims.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/example/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/exampleone/TestCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../UI_Framework/new-avility/src/main/java/org/example/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/exampleone/WheelModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/exampleone/EngineModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/exampleone/Tyres.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/exampleone/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/exampleone/CarComponents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/exampleone/Cylender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/exampleone/EngineType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dagger/exampleone/Wheel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../UI_Framework/new-avility/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="98" column="21" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/serenity-cucumber4-sample-project-master/src/test/java/com/ivanwidyan/module/api/UsersController.java" />
+    <entry file="file://E:/serenity-cucumber4-sample-project-master/src/test/resources/features/SearchKeyword.feature" />
+    <entry file="file://E:/serenity-cucumber4-sample-project-master/src/test/java/com/avility/bdd/runner/WebRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/serenity-cucumber4-sample-project-master/src/test/resources/serenity.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/serenity-cucumber4-sample-project-master/src/test/java/com/avility/bdd/membersearch/GooglePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../UI_Framework/new-avility/src/test/java/com/avility/bdd/page/GooglePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/serenity-cucumber4-sample-project-master/src/test/java/com/avility/bdd/steps/GooglePageSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/serenity-cucumber4-sample-project-master/src/test/java/com/avility/bdd/CucumberRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/serenity-cucumber4-sample-project-master/src/test/resources/features/member_search/SearchKeyword.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>new-avility</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>
